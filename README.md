@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This project is inspired by https://github.com/nicotsou/react-twitter/tree/main
+
+Some code of the original repository has been used (especially CSS) and refactored.
+
 ## Available Scripts
 
 In the project directory, you can run:
