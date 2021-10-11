@@ -1,0 +1,47 @@
+[
+  {
+    "id": "1",
+    "created_on": "Mon Oct 07 2021 11:10:00 GMT+0200 (Central European Summer Time)",
+    "content": "Née dans le laboratoire de bio-robotique de l’école, développée à @IMTAincubateur, ELwave est devenue une pépite française lauréate 👋d’un appel à projet européen !",
+    "username": "IMTA",
+    "comments_count": 82,
+    "retweets_count": 26,
+    "likes_count": 31
+  },
+  {
+    "id": "2",
+    "created_on": "Sun Oct 06 2021 15:25:00 GMT+0200 (Central European Summer Time)",
+    "content": "Rennes classée 2e ville étudiante de Flag of France @educpros! La capitale bretonne se distingue par la densité de son offre de formation & ses efforts environnementaux",
+    "username": "Mines de Nantes",
+    "comments_count": 102,
+    "retweets_count": 34,
+    "likes_count": 12
+  },
+  {
+    "id": "3",
+    "created_on": "Sat Oct 05 2021 08:02:00 GMT+0200 (Central European Summer Time)",
+    "content": "Envie de développer des compétences attendues par les entreprises ? Tremplin #numérique, dispositif de formation porté par #IMTAtlantique & @ptitsdebsGO est fait pour vous ! Un nouveau parcours #Emploi #3 est proposé du 8/11/21 au 25/05/22",
+    "username": "Télécom Bretagne",
+    "comments_count": 803,
+    "retweets_count": 236,
+    "likes_count": 401
+  },
+  {
+    "id": "4",
+    "created_on": "Fri Oct 04 2021 21:21:21 GMT+0200 (Central European Summer Time)",
+    "content": "#rentree2021 pour les élèves #ingénieurs en formations par #apprentissage spécialité ingénierie logicielle et transformation digitale des systèmes industriels, en partenariat avec l'ITII PdL. Bienvenue à tous !",
+    "username": "Polytech",
+    "comments_count": 60,
+    "retweets_count": 13,
+    "likes_count": 18
+  },
+  {
+    "id": "5",
+    "created_on": "Thurs May 03 2021 12:00:00 GMT+0200 (Central European Summer Time)",
+    "content": "IMT Atlantique intègre pour la 1ère fois le classement «QS Graduate Employability Rankings» et se positionne parmi les 300 premiers établissements mondiaux (251-300)",
+    "username": "X",
+    "comments_count": 1021,
+    "retweets_count": 652,
+    "likes_count": 854
+  }
+]
